@@ -1,1 +1,2 @@
 GitHub collaboration practical started.
+Collaboration practical update from lab2-collaboration branch.
